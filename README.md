@@ -8,6 +8,8 @@ I created this skin to be a small and unobtrusive music player.  It is designed 
 
 The play control interface is a reduced-size version of the the standard Windows Media Player 11 play control interface (thus the name "Schneider's Eleven").
 
+![Schneider's Eleven skin image](http://www.jonschneider.com/skins/images/SchneidersEleven.png)
+
 
 ## Feature List  
 
