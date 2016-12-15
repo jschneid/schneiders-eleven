@@ -8,6 +8,8 @@ I created this skin to be a small and unobtrusive music player.  It is designed 
 
 The play control interface is a reduced-size version of the the standard Windows Media Player 11 play control interface (thus the name "Schneider's Eleven").
 
+![Schneider's Eleven skin image](http://www.jonschneider.com/skins/images/SchneidersEleven.png)
+
 
 ## Feature List  
 
@@ -18,7 +20,23 @@ The play control interface is a reduced-size version of the the standard Windows
 - Available controls: Play/Pause, Previous Track, Next Track, Stop, Mute on/off,
     Shuffle on/off, Repeat on/off, Track position slider, Volume slider
 - Displays album art if available, correctly sized/scaled
-- Designed for Windows Media Player 11; also works with Windows Media Player 10
+- Designed for Windows Media Player 11; also works with Windows Media Player versions 12 and 10
+
+## Installation Instructions 
+
+Download the .wmz file from the /deploy folder, and double-click it.
+
+
+## Packaging Instructions
+
+1. Copy all of the project assets into a single folder:
+  - The .js file;
+  - The .wms file;
+  - All .bmp files from the Images folder.
+1. Create a .zip archive with all of those files;
+1. Rename the archive file extension from .zip to .wmz.
+
+
 
 ## Known Issues
 
