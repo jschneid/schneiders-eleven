@@ -86,7 +86,6 @@
     <Content Include="Images\RepeatEnabledSmallHover.bmp" />
     <Content Include="Images\RepeatEnabledSmallMap.bmp" />
     <Content Include="Images\RightBorder.bmp" />
-    <Content Include="Images\SchneidersEleven.wms" />
     <Content Include="Images\ShuffleEnabledSmall.bmp" />
     <Content Include="Images\ShuffleEnabledSmallDown.bmp" />
     <Content Include="Images\ShuffleEnabledSmallHover.bmp" />
