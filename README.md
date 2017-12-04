@@ -1,5 +1,7 @@
 # Schneider's Eleven
+
 Unobtrusive skin for Windows Media Player featuring album art
+
 http://www.jonschneider.com/SchneidersEleven.html
 
 I created this skin to be a small and unobtrusive music player.  It is designed to unobtrusively sit in the corner of the screen, with no distracting scrolling text, animated graphics, or frequently-changing text fields (aside from the display of the time index within the current track).  It always shows the current album, artist, and track name for at-a-glance viewing.  
